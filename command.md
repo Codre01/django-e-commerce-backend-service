@@ -1,3 +1,4 @@
+Clone this repository.
 Open this project in your IDE, then open your terminal and run this command as it arranged one after the other.
 
 1. python3 -m venv venv
